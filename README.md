@@ -1,1 +1,1 @@
-This is my simple python project using basic coding methods.
+This is the simple python projects using basic coding methods.
